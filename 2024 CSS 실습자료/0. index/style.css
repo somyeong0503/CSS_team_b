@@ -1,0 +1,12 @@
+*{
+    /*body 전체에 css 속성을 줄 수 있어요~!*/
+}
+h1{
+    color:aqua;
+}
+.title{
+    color:blue;
+}
+#title2{
+    color:red;
+}

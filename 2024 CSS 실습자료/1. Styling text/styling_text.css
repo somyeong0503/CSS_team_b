@@ -1,0 +1,36 @@
+/* 기본 속성 */
+
+.fontWeight{
+    font-weight: 900;
+}
+/*클래스 html에서 지정해주고 .클래스를 통해 연결 후 속성을 입력해주세요!*/
+.textTransform{
+    text-transform: uppercase;
+}
+.fontStyle{
+    font-style: italic
+}
+.textDecoration{
+    text-decoration: overline;
+}
+.textAlign{
+    text-align: center;
+}
+.letterspacing{
+    letter-spacing: 3px;
+}
+.color{
+    color: red;
+}
+
+a{
+   text-decoration: none; 
+}
+
+a:link{
+    color: inherit;
+}
+
+a:visited{
+    color: red;
+}
